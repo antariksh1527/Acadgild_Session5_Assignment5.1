@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlinkingApp</string>
+    <string name="blink_text">This is Blinking Animation</string>
+    <string name="btnText">Start Animation</string>
+
+</resources>
